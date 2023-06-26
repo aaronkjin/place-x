@@ -4,7 +4,9 @@
 
 ### Link to website
 
-[Travel Website](https://aaron-jin-travel.netlify.app/)
+Come see it for yourself!
+
+[PlaceX Website](https://aaron-jin-placex.netlify.app/)
 
 ### Background and Inspiration
 
