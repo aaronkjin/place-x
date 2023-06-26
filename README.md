@@ -25,4 +25,4 @@ To fine-tune my inventory of frontend development skills, I solely dedicated thi
 
 By: Aaron Jin
 
-Main Github Profile link: https://github.com/aaronkjin
+Main GitHub Profile link: https://github.com/aaronkjin
