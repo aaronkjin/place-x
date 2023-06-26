@@ -1,6 +1,6 @@
 # Travel Website
 
-## A front-end web application project to hone in on my skills to create a visually pleasing and interactive user experience
+## A front-end web application project to hone in on my skills with vanilla JS, HTML, and CSS. 
 
 ### Link to website
 
