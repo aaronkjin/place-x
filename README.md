@@ -1,6 +1,6 @@
-# TravelMore
+# PlaceX
 
-## A front-end web application project to hone in on my skills with vanilla JS, HTML, and CSS
+## A front-end travel web application project to hone in on my skills with vanilla JS, HTML, and CSS
 
 ### Link to website
 
