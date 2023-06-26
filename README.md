@@ -4,7 +4,7 @@
 
 ### Link to website
 
-[Travel Website](aaron-jin-travel.netlify.app)
+[Travel Website](https://aaron-jin-travel.netlify.app/)
 
 ### Background and Inspiration
 
