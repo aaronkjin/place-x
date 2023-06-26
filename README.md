@@ -1,4 +1,4 @@
-# Travel Website
+# TravelMore
 
 ## A front-end web application project to hone in on my skills with vanilla JS, HTML, and CSS. 
 
