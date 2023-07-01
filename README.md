@@ -1,6 +1,7 @@
 # PlaceX
 
 A front-end travel web application project to hone in on my skills with vanilla JS, HTML, and CSS
+![Uploading Screen Shot 2023-06-30 at 3.47.33 PM.png…]()
 
 ### Link to website
 
