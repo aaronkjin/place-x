@@ -1,8 +1,7 @@
-<img width="1508" alt="Screen Shot 2023-06-30 at 3 47 33 PM" src="https://github.com/aaronkjin/place-x/assets/58490258/76ceb14c-b28d-4c3e-8e09-9972f9d904e5"># PlaceX
+# PlaceX
 
 A front-end travel web application project to hone in on my skills with vanilla JS, HTML, and CSS
-
-
+<img width="1508" alt="Screen Shot 2023-06-30 at 3 47 33 PM" src="https://github.com/aaronkjin/place-x/assets/58490258/76ceb14c-b28d-4c3e-8e09-9972f9d904e5">
 
 ### Link to website
 
