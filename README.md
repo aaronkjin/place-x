@@ -1,6 +1,6 @@
 # PlaceX
 
-An engaging front-end travel website
+An engaging front-end travel website providing users with an immersive platform for exploring their dream destinations
 
 <img width="1000" alt="Screen Shot 2023-06-30 at 3 47 33 PM" src="https://github.com/aaronkjin/place-x/assets/58490258/76ceb14c-b28d-4c3e-8e09-9972f9d904e5">
 
