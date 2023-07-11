@@ -21,6 +21,9 @@ This summer, as I sat down in front of my laptop, I was daydreaming about my fav
 - Smooth scrolling throughout each section.
 - Had different screen sizes in mind. Is mobile-friendly.
 
+**TL;DR**
+I integrated dynamic and interactive components by utilizing JS classes to manipulate HTML elements within the DOM; styled individual elements using CSS to deliver a visually captivating UI; and included features like animations and a mobile-friendly design.
+
 ### Notes
 
 To fine-tune my inventory of frontend development skills, I solely dedicated this project to just that: frontend development. As a result, there is no backend integration that I built for this project. I like to think of this website as a boiler plate for how I would like to build my future websites in terms of its aesthetic.
